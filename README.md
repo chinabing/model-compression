@@ -1,5 +1,4 @@
 # model-compression
-# awesome-model-compression-and-acceleration
 ---
 ## Paper
 #### Overview
@@ -88,5 +87,5 @@
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
-##Reference 
+## Reference 
 -[https://github.com/sun254/awesome-model-compression-and-acceleration]
