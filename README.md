@@ -4,7 +4,7 @@
 #### Overview
 - [Model compression as constrained optimization, with application to neural nets. Part I: general framework](https://arxiv.org/abs/1707.01209)
 - [Model compression as constrained optimization, with application to neural nets. Part II: quantization](https://arxiv.org/abs/1707.04319)
--[A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282.pdf)
+- [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282.pdf)
 
 #### Structure
 - [Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)
@@ -88,4 +88,4 @@
 - [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
 ## Reference 
--[https://github.com/sun254/awesome-model-compression-and-acceleration]
+- [https://github.com/sun254/awesome-model-compression-and-acceleration]
